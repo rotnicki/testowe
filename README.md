@@ -1,5 +1,4 @@
 # To jest test
 
-Zadaniem testu jest testowanie.
+Tu powinna być treść.
 
-# Koniec
