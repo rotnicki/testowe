@@ -5,6 +5,7 @@ Zadaniem testu jest testowanie.
 ## Ala ma kota
 
 Tak zaczyna się bajka.
+Bohaterowie to Ala i jej kot.
 
 ## Lorem ipsum
 
