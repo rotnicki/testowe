@@ -2,5 +2,5 @@ remote_theme: jekyll/minima
 lang: pl
 
 minima:
-    social_links:
-        twitter: rotnicki
+    - social_links:
+        - twitter: rotnicki
