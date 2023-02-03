@@ -6,5 +6,5 @@ minima:
     twitter: rotnicki
     github: rotnicki
     mastodon:
-      - username: rotnicki
+        username: rotnicki
         instance: mastodon.social
