@@ -19,10 +19,13 @@ Exceptions:
 * The focus indicator and the indicator's background color are not modified by the author.
 
 > NOTE
+> 
 > What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.
  
 > NOTE
+> 
 > Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.
 
 > NOTE
+> 
 > Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.
