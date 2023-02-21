@@ -6,3 +6,7 @@ Salvador Dali
 : on był świetnym malarzem!
 : urodził się w 1904 roku
 : namalował wiele obrazów
+
+one camping! :tent: Be back soon.
+
+That is so funny! :joy:
