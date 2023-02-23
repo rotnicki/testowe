@@ -1,5 +1,9 @@
 ---
-W3C: https://www.w3.org/TR/WCAG22/#accessible-authentication
+Zasada: 1. Postrzwgalość
+Wytyczna: 1.1 Alternatywa tekstowa
+Kryterium sukcesu: 1.1.1 Treść nietekstowa
+Poziom: A
+Wersja angielska: https://www.w3.org/TR/WCAG22/#accessible-authentication
 ---
 # Trwałość pamięci
 
