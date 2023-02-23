@@ -1,5 +1,5 @@
 ---
-Wikipedia: https://www.w3.org/TR/WCAG22/#accessible-authentication
+W3C: https://www.w3.org/TR/WCAG22/#accessible-authentication
 ---
 # Trwałość pamięci
 
