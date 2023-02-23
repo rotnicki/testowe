@@ -1,5 +1,5 @@
 ---
-Wikipedia: https://pl.wikipedia.org/wiki/Salvador_Dal%C3%AD
+Wikipedia: [Salvador](https://pl.wikipedia.org/wiki/Salvador_Dal%C3%AD)
 ---
 # Trwałość pamięci
 
