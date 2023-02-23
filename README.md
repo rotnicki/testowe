@@ -19,8 +19,10 @@ Treść notatki
 
 <details>
 <summary>Zrozumieć kryterium sukcesu</summary>
+
 ## To są szczegóły informacji o kryterium sukcesu, które trzeba zrozumieć.
 - raz
 - dwa
 - trzy
+
 </details>
