@@ -1,5 +1,5 @@
 ---
-Wikipedia: [Salvador](https://pl.wikipedia.org/wiki/Salvador_Dal%C3%AD)
+Wikipedia: ![Miękkie zegary](https://user-images.githubusercontent.com/8331614/215898827-61908788-5418-47ec-9007-82bb82351d26.png)
 ---
 # Trwałość pamięci
 
