@@ -7,5 +7,5 @@ Salvador Dali
 - urodził się w 1904 roku
 - namalował wiele obrazów
 
-NOTE
+NOTE 
 Treść notatki
