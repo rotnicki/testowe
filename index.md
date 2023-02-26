@@ -1,9 +1,0 @@
-# testowe
-
-To jest strona testowa
-
-<ul class="social-media-list">
-{%- for entry in site.minima.social_links -%}
-  {%- include social-item.html item = entry -%}
-{%- endfor -%}
-</ul>
