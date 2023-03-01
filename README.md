@@ -4,7 +4,7 @@
 
 Nowszy
 
-https://raw.githubusercontent.com/rotnicki/testowe/main/caly-cykl-640x360.mp4
+<video src="https://raw.githubusercontent.com/rotnicki/testowe/main/caly-cykl-640x360.mp4" />
 
 Nowy
 
