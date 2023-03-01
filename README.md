@@ -2,6 +2,10 @@
 
 ![Miękkie zegary](https://user-images.githubusercontent.com/8331614/215898827-61908788-5418-47ec-9007-82bb82351d26.png)
 
+Nowszy
+
+https://github.com/rotnicki/testowe/blob/main/caly-cykl-640x360.mp4
+
 Nowy
 
 https://github.com/rotnicki/testowe/blob/main/sygnalizacja-akustyczna-caly-cykl.mp4
