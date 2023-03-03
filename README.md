@@ -4,4 +4,4 @@
 
 <A HREF="mailto:rotnicki@gmail.com?Subject=Zgloszenie">linkText</A>
 
-<a href="mailto:webmaster@somedomain.com"> 
+<a href="mailto:webmaster@somedomain.com">Napisz do nas</a>
