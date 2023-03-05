@@ -1,4 +1,13 @@
 <html>
-  <body style="background-color: red;">
-  </body>
+<body>
+<form action="mailto:" method="post" enctype="text/plain">
+  <label for="to">To:</label>
+  <input type="email" name="to" id="to" required><br>
+  <label for="subject">Subject:</label>
+  <input type="text" name="subject" id="subject"><br>
+  <label for="body">Body:</label>
+  <textarea name="body" id="body"></textarea><br>
+  <input type="submit" value="Send">
+</form>
+</body>
 </html>
